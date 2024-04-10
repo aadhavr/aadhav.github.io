@@ -35,11 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/aadhav_io
 # instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: https://linkedin.com/in/aadhav-rajesh
+github: https://github.com/aadhavr
+email: me@aadhav.io
 
 authors:
   johndoe:
