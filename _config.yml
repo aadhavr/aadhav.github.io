@@ -34,9 +34,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+# facebook: myfacebook
 twitter: mytwitter
-instagram: myinstagram
+# instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
 email: myemail@gmail.com
@@ -80,7 +80,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
