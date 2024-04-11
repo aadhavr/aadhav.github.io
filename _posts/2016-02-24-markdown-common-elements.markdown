@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Markdown Common Elements"
 layout: post
 date: 2016-02-24 22:44
@@ -11,7 +11,7 @@ star: true
 category: blog
 author: johndoe
 description: Markdown summary with different options
----
+--- -->
 
 ## Basic formatting
 
