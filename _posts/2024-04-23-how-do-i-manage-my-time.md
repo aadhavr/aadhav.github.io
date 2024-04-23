@@ -1,5 +1,5 @@
 ---
-title: "How do I manage my time?."
+title: "How do I manage my time?"
 layout: post
 date: 2024-04-23 00:53
 image: /assets/images/markdown.jpg
