@@ -15,11 +15,11 @@ We will always want more. The possibility of suffering is infinite. Yet, this co
 
 You will die, still having things you want to do. Even writing that statement feels abhorrent to our 21st century sensibilities. That is because the state of wanting to do things is unbearable. But why does it have to be?
 
-No matter how many times I fold the laundry, the laundry still needs to be folded every Sunday. I will never be "on top" of laundry, because that is not the nature of laundry, nor life. Sunday is not an inherent feature of the universe. It has been shaped by religious figures, industrialists, and labor unions. This is not to say that long-term goals are bad, but they aren't inherent features of the universe. They may inherent features of <i>your</i> universe—a universe where you live in constant state of tension, pinning your salvation on a future that is always out of reach. 
+No matter how many times I fold the laundry, the laundry still needs to be folded every Sunday. I will never be "on top" of laundry, because that is not the nature of laundry, nor life. Sunday is not an inherent feature of the universe. It has been shaped by religious figures, industrialists, and labor unions. This is not to say that long-term goals are bad, but they aren't inherent features of the universe. They may be inherent features of <i>your</i> universe—a universe where you live in constant state of tension, pinning your salvation on a future that is always out of reach. 
 
 ## What does this mean for your goals?
 
-If you're like me, you probably haven't fully grasped time's finitude. It's important to understand this, because recognizing you can not do everything you'll want to do, is the first step to valuing your time.
+If you're like me, you probably haven't fully grasped time's finitude. It's important to understand this, because recognizing you can not do everything you will want to do, is the first step to valuing your time.
 
 If you believe it is possible to find time for everything, you will not ask yourself if a task is the best use of your time. There is no opportunity cost to any present moment. Of course, there is. Your mother could die at any moment. Your favorite musician could be in your city touring. You could be sleeping right now.
 
@@ -29,7 +29,7 @@ Take inventory of the past few years of your life. Is there a string of half-fin
 
 It's harrowing having to set aside each of these projects and say, "Alright, I'm going to do this one thing, step-by-step, until it's finished." It's scary because it's a confrontation with your mortality—your capacity for work is strictly finite, but the range of what you can do with that finite capacity isn't. If you're procrastinating on something because you're afraid it won't live up to its full potential, you're right. It won't. "Full potential" is an oxymoron.
 
-Boredom, fear of failure, procrastination: they all force you to see that this is it. They are practices in mindfulness, actually. No wonder, we seek distractions from these fears. That stress we feel during an empty weekend is your mind worrying over a resource misallocationation problem. But, no matter how you fill that weekend, it will be a resource "misallocation." That is the beauty of monogamous relationships, mom-and-pop restaurants that will one day shut down, and holding your child in your arms, knowing one day they'll grow up.
+Boredom, fear of failure, procrastination: they all force you to see that this is it. They are practices in mindfulness, actually. No wonder, we seek distractions from these fears. That stress we feel during an empty weekend is your mind worrying over a resource misallocationation problem. But, no matter how you fill that weekend, it will be a resource "misallocation." That is the beauty of monogamous relationships, mom-and-pop restaurants that will one day shut down, and holding your child in your arms, knowing one day will pick them up and put them down forever.
 
 ## Next steps
 
