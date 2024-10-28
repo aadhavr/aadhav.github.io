@@ -16,7 +16,7 @@ Let's start with unhappiness. Many traditions have explanations for happiness. S
 
 Here's what we know for certain: whether you believe in God, Enlightenment, or materialism, your experience is grounded physically in your body. If you believe in God, you believe this body was created in the image of God, per Genesis 1:27. If you believe in Enlightenment, you don't believe in any real self, and we are a fundamentally empty, dynamic interbeing of atoms. If you're an atheistic materialist, you believe this body is this body, end of discussion.
 
-What's worth noting is that we are all communicating with highly symbolic language. What the Greeks might have called *pneuma* and the Hindus might have called *prana* can be explained with Western biomedical rhetoric. (The Diagnostic Statistical Manual has become virtually become its own industry, earning the American Psychiatric Association more than [$100 million](https://psycnet.apa.org/record/2013-16286-000). It listed homosexuality as a mental disorder until 1973.) I am highlighting this to avoid presentist bias.
+What's worth noting is that we are all communicating with highly symbolic language. What the Greeks might have called *pneuma* and the Hindus might have called *prana* can be explained with Western biomedical rhetoric. (The Diagnostic Statistical Manual has virtually become its own industry, earning the American Psychiatric Association more than [$100 million](https://psycnet.apa.org/record/2013-16286-000). It listed homosexuality as a mental disorder until 1973.) I am highlighting this to avoid presentist bias.
 
 We've gotten better at solving these problems with more precise speech but, to pretend we've understood the human body is foolish. What Jhourney is doing with [neurofeedback and dhyana](https://pluralism.org/news/silicon-valley-start-aims-unlock-buddhist-jhana-states-tech) exemplifies this. Rather than discarding the tools from past traditions on seeking happiness, they are recognizing that all language is symbolic and, rather than secularizing Buddhist concepts to meaninglessness, they are using technology to make it more accessible. There very well might not be any inherent "stages" of dhyana in our bodies. However, there clearly are ways to achieved altered states of consciousness to find peace, and using EEG devices is a great way of synthesizing these two different symbols of communication.
 
@@ -28,7 +28,7 @@ Chronically unhappy people's bodies are not safe, so they seek solace in work, s
 
 What is unhappiness? Rather than diving into the neuroscience of it, first let's use language we all know. Fear, anxiety, shame, hopelessness, desperation. These emotions all elicit different physical responses. This is not just metaphor; a study of heart rate variability in unhappy would reveal this.
 
-![alt text](image-1.png)
+![alt text](/aadhav.github.io/_posts/image-1.png)
 <center><i>From "The Body Keeps the Score" by Bessel van der Kolk</i></center>
 
 
@@ -37,15 +37,15 @@ What is unhappiness? Rather than diving into the neuroscience of it, first let's
 
 Put your hand on your chest, and find your heart beat. Notice how fast your heart is beating. Exhale. Notice how it slows down. When you inhale, your sympathetic nervous system activates. When you exhale, your parasympathetic nervous system activates and acetylcholine is released. Typically, in healthy folks, the rates of activation between these two—aka heart rate variability—should be fairly equal. Look at the graph above, and notice how the line and the shaded regions go up and down in-sync.
 
-![alt text](image-2.png)
+![alt text](/aadhav.github.io/_posts/image-2.png)
 
 When a healthy person gets upset, notice how breathing speeds up and heart rate increases. 
 
-![alt text](image-3.png)
+![alt text](/aadhav.github.io/_posts/image-3.png)
 
 However, people with PTSD were found to have heart rates that were "out of sync" so-to-speak with their breathing. In other words, there nervous system did not regulate itself the way someone's body that had never experienced trauma would. Look at this graph above. People who are traumatized literally have bodies that don't relax as much a healthy person's body does from breathing. The natural system is out of sync. Their bodies feel unsafe.
 
-![alt text](image-4.png)
+![alt text](/aadhav.github.io/_posts/image-4.png)
 
 This is what a panic attack looks like. It is completely out of sync.
 
@@ -55,7 +55,7 @@ When Vietnam combat veterans were asked  put their hands in a bucket of ice wate
 
 ## Can you make your body safer?
 
-![alt text](image.png)
+![alt text](/aadhav.github.io/_posts/image.png)
 <center>From <i>The Body Keeps the Score</i>" by Bessel van der Kolk</center>
 
 <br>
@@ -76,7 +76,7 @@ These methods require more initial effort than bottom-up regulation. This is bec
 
 Here's an example of something I do on my phone to make this easier. I keep a running list of good things that happen to me so I can control the narrative of my life: good things happen to me, I have many things to be grateful for, and I have people around me that I love, who love me.
 
-![alt text](image-5.png)
+![alt text](/aadhav.github.io/_posts/image-5.png)
 
 Bottom-up regulation is how most people confront negative emotions. Common examples include binge-eating, self-harm, drug use, and social media addiction. Here's the thing to understand though: bottom-up regulation **isn't inherently bad.** What is bad, are these ways of regulating your emotions. Some healthier ways of engaging with this form of regulation include:
 - Breathwork
