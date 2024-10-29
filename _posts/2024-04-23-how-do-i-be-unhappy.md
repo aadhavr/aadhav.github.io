@@ -28,7 +28,7 @@ Chronically unhappy people's bodies are not safe, so they seek solace in work, s
 
 What is unhappiness? Rather than diving into the neuroscience of it, first let's use language we all know. Fear, anxiety, shame, hopelessness, desperation. These emotions all elicit different physical responses. This is not just metaphor; a study of heart rate variability in unhappy would reveal this.
 
-![alt text](/aadhav.github.io/_posts/image-1.png)
+![alt text](/assets/images/image-1.png)
 <center><i>From "The Body Keeps the Score" by Bessel van der Kolk</i></center>
 
 
@@ -37,15 +37,15 @@ What is unhappiness? Rather than diving into the neuroscience of it, first let's
 
 Put your hand on your chest, and find your heart beat. Notice how fast your heart is beating. Exhale. Notice how it slows down. When you inhale, your sympathetic nervous system activates. When you exhale, your parasympathetic nervous system activates and acetylcholine is released. Typically, in healthy folks, the rates of activation between these two—aka heart rate variability—should be fairly equal. Look at the graph above, and notice how the line and the shaded regions go up and down in-sync.
 
-![alt text](/aadhav.github.io/_posts/image-2.png)
+![alt text](/assets/images/image-2.png)
 
 When a healthy person gets upset, notice how breathing speeds up and heart rate increases. 
 
-![alt text](/aadhav.github.io/_posts/image-3.png)
+![alt text](/assets/images/image-3.png)
 
 However, people with PTSD were found to have heart rates that were "out of sync" so-to-speak with their breathing. In other words, there nervous system did not regulate itself the way someone's body that had never experienced trauma would. Look at this graph above. People who are traumatized literally have bodies that don't relax as much a healthy person's body does from breathing. The natural system is out of sync. Their bodies feel unsafe.
 
-![alt text](/aadhav.github.io/_posts/image-4.png)
+![alt text](/assets/images/image-4.png)
 
 This is what a panic attack looks like. It is completely out of sync.
 
@@ -55,7 +55,7 @@ When Vietnam combat veterans were asked  put their hands in a bucket of ice wate
 
 ## Can you make your body safer?
 
-![alt text](/aadhav.github.io/_posts/image.png)
+![alt text](/assets/images/image.png)
 <center>From <i>The Body Keeps the Score</i>" by Bessel van der Kolk</center>
 
 <br>
@@ -76,7 +76,7 @@ These methods require more initial effort than bottom-up regulation. This is bec
 
 Here's an example of something I do on my phone to make this easier. I keep a running list of good things that happen to me so I can control the narrative of my life: good things happen to me, I have many things to be grateful for, and I have people around me that I love, who love me.
 
-![alt text](/aadhav.github.io/_posts/image-5.png)
+![alt text](/assets/images/image-5.png)
 
 Bottom-up regulation is how most people confront negative emotions. Common examples include binge-eating, self-harm, drug use, and social media addiction. Here's the thing to understand though: bottom-up regulation **isn't inherently bad.** What is bad, are these ways of regulating your emotions. Some healthier ways of engaging with this form of regulation include:
 - Breathwork
