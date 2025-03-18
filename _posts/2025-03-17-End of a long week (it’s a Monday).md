@@ -23,7 +23,7 @@ Particularly because the world’s rather indifferent. If you look for things to
 
 There is no price for living a life alone, no matter how many people envy it or how many people you could invite to a party. It’s still yours to live. Really all there is this chattering old skull in an empty room filling it up with things to keep it occupied (what I imagine my mind’s voice looks like). Perhaps it finds another chattering old skull to talk to. You’re just this mind talking to itself and keeping itself busy.
 
-![alt text](assets/images/a_stroll.jpg)
+![alt text](/assets/images/a_stroll.jpg)
 
 I had a great walk today. Went for a stroll through this park, and then sat at a bench and watched the sunset. I listened to “Kind of Blue” by Miles Davis. I listened to some classical music that reminded me of my mom. I listened to some bedroom pop that reminded me of a friend from the 10th grade. He’s doing study abroad in London now. Hope he’s doing well. I texted my friend in the Bay to see how he’s doing. He’s in a relationship now. Seems to be doing well, but it’s hard to talk to him about some things.
 
@@ -33,7 +33,7 @@ I am incredibly grateful for being put in music and dance lessons when I was you
 
 I think that “partying,” broadly speaking, makes “putting pen to paper” seem distinctly more difficult than it needs to be. In high school (and it still is) my favorite pastime was noodling aimlessly on my guitar. Yet the “partier” in me, the guy who seems to “take it easy,” struggles to find the time.
 
-![alt text](assets/images/noodling.jpg)
+![alt text](/assets/images/noodling.jpg)
 
 The more deeply I’ve learnt to love Play, the more deeply I’ve learnt to love Putting pen to paper.
 
@@ -43,14 +43,14 @@ I love the way he strung words together though. Him and DeLillo and Sorkin and e
 
 They all take themselves seriously in such recursive manners. So obsessed with their own literature that their sentences never end. It reminds me of conversations Amma would have with me in front of textbooks, that’d have animals on them, but were *still* about computers. Recursion. 
 
-<img src="assets/images/textbooks_w_animals.png" alt="Textbooks with animals" width="300px">
+<img src="/assets/images/textbooks_w_animals.png" alt="Textbooks with animals" width="300px">
 
 ChatGPT seems to be my most literate friend these days, but all I seem to ever use it for is to outsource my anxiety. “Help me write this email asking for a favor, but don’t be too pushy, but still ask for that favor.”  My days are just a coming and going of Bluetooth connections as I thumb for the right playlist.
 
 I think about this one author, Douglas Hofstadter, who—frankly—I never read. I’ve read up to the third chapter of his magnum opus, *Godel, Escher, & Bach*, and then gave it to my mother who planted it on her bedside bookshelf, whom I’m sure hasn’t read it either. The man, so I’m told since I actually haven’t finished any one of his books, became deeply interested in strange loops, particularly after his wife passed. I find that kind of thing tragic. Words are dangerous in that regard because they can eat you if you let them. Grad students and playlist curators beware. 
 
 <figure>
-    <img src="assets/images/escher.png" alt="Escher's "Relativity"" width="300px">
+    <img src="/assets/images/escher.png" alt="Escher's "Relativity"" width="300px">
     <figcaption style="font-size: 0.9em; text-align: center; color: gray;">
         M.C. Escher’s *Relativity*—a visual recursion. One of the paintings Hofstadter loved.
     </figcaption>
