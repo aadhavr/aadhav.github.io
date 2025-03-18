@@ -50,7 +50,7 @@ ChatGPT seems to be my most literate friend these days, but all I seem to ever u
 I think about this one author, Douglas Hofstadter, who—frankly—I never read. I’ve read up to the third chapter of his magnum opus, *Godel, Escher, & Bach*, and then gave it to my mother who planted it on her bedside bookshelf, whom I’m sure hasn’t read it either. The man, so I’m told since I actually haven’t finished any one of his books, became deeply interested in strange loops, particularly after his wife passed. I find that kind of thing tragic. Words are dangerous in that regard because they can eat you if you let them. Grad students and playlist curators beware. 
 
 ![alt text](/assets/images/escher.png)
-<center>M.C. Escher’s *Relativity*—a visual recursion. One of the paintings Hofstadter loved.</center>
+<center>M.C. Escher’s <i>Relativity</i>—a visual recursion. One of the paintings Hofstadter loved.</center>
 
 
 But they know that. I don’t have to tell them. Earnest people’s punishment and reward for their earnestness is their own earnestness. That's why they put pen to paper.
