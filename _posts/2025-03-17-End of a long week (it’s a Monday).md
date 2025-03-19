@@ -21,7 +21,7 @@ I knew people like that. People who constantly reaffirmed how cool things were. 
 
 Particularly because the world’s rather indifferent. If you look for things to be afraid of you’ll find it. 
 
-There is no price for living a life alone, no matter how many people envy it or how many people you could invite to a party. It’s still yours to live. Really all there is this chattering old skull in an empty room filling it up with things to keep it occupied (what I imagine my mind’s voice looks like). Perhaps it finds another chattering old skull to talk to. You’re just this mind talking to itself and keeping itself busy.
+There is no prize for living a life alone, no matter how many people envy it or how many people you could invite to a party. It’s still yours to live. Really all there is this chattering old skull in an empty room filling it up with things to keep it occupied (what I imagine my mind’s voice looks like). Perhaps it finds another chattering old skull to talk to. You’re just this mind talking to itself and keeping itself busy.
 
 ![alt text](/assets/images/a_stroll.jpg)
 
