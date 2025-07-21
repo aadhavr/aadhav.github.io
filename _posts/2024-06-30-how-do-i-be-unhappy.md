@@ -6,8 +6,9 @@ headerImage: false
 tag:
 - happiness
 - body
+- consciousness
 category: blog
-description: Markdown summary with different options
+description: 
 ---
 
 Defining most things negatively is easier than defining them positively. The same should be true for happiness.

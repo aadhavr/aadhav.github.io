@@ -8,7 +8,7 @@ tag:
 - productivity
 - death
 category: blog
-description: Markdown summary with different options
+description: 
 ---
 
 We will always want more. The possibility of suffering is infinite. Yet, this concept escapes us when it comes to how we manage our time. We have infinite wants and finite time. Procrastination and time-management issues stem from a denial of reality—the reality that we will never accomplish everything we want to do. This is not a reflection of my ability to accomplish tasks, but, rather, a reflection of how fickle our wants are.
